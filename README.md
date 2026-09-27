@@ -14,5 +14,4 @@ from operaciones import sumar
 print(sumar(2, 3))
 ```
 
-## Nota sobre colaboración
-Este proyecto se desarrolló de forma individual. La invitación de colaboradores queda pendiente por no contar con el usuario de GitHub del profesor/equipo.
+ ## Nota sobre colaboración El trabajo se hizo de forma individual, ya que no pude contactarme con algún compañero.
