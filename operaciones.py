@@ -6,3 +6,5 @@ def restar(a, b):
 
 def promedio(numeros):
     return sum(numeros) / len(numeros)
+def multiplicar(a, b):
+    return a * b
