@@ -14,4 +14,5 @@ from operaciones import sumar
 print(sumar(2, 3))
 ```
 
- ## Nota sobre colaboración El trabajo se hizo de forma individual, ya que no pude contactarme con algún compañero.
+ ## Nota sobre colaboración
+Este proyecto se desarrolló de forma colaborativa entre los miembros del equipo, cada uno contribuyendo mediante ramas y pull requests.
