@@ -3,3 +3,6 @@ def contar_palabras(texto):
 
 def a_mayusculas(texto):
     return texto.upper()
+
+def invertir_texto(texto):
+    return texto[::-1]
